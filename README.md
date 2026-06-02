@@ -12,17 +12,17 @@ Full-stack developer from Warangal, passionate about building beautiful, functio
 ### 🎨 Portfolio
 Interactive 3D portfolio with WebGL particles and smooth animations
 - Tech: Next.js 14, Three.js, Framer Motion
-- [Live](https://your-portfolio-link.com) | [Code](https://github.com/Santhosh7474/portfolio)
+- [Live](https://portfolio-roan-gamma-80.vercel.app/) | [Code](https://github.com/Santhosh7474/portfolio)
 
 ### 📱 News_App
 Intelligent news reader with personalized summaries
 - Tech: Flutter, Dart
-- [Code](https://github.com/Santhosh7474/News_App)
+- [Live](https://github.com/Santhosh7474/News_App/releases/download/v1.0.0/app-release.apk) | [Code](https://github.com/Santhosh7474/News_App)
 
 ### 🍽️ Savoury
 Recipe and cooking companion app
 - Tech: JavaScript, HTML5, CSS3
-- [Code](https://github.com/Santhosh7474/Savoury)
+- [Live](https://savoury-chi.vercel.app/) | [Code](https://github.com/Santhosh7474/Savoury)
 
 ### 🚀 Smaxx-Agency  
 Modern agency website with animation-rich design
@@ -32,4 +32,4 @@ Modern agency website with animation-rich design
 ---
 
 ## Let's connect:
-[LinkedIn](https://linkedin.com/in/buchala-santhosh) | [Twitter](link) | [Portfolio](link)
+[LinkedIn](https://linkedin.com/in/buchala-santhosh) | [Portfolio](https://portfolio-roan-gamma-80.vercel.app/)
