@@ -9,6 +9,11 @@ Full-stack developer from Warangal, passionate about building beautiful, functio
 
 ## Featured Projects:
 
+### 🤝 Punyadaan
+Charity and donation management platform
+- Tech: Flutter, Dart, Firebase, Cloud Firestore, Firebase Auth, QR Scanner, Geolocation
+- [Live](https://github.com/Santhosh7474/punyadaan/releases/download/v1.2.3/app-release.apk) | [Code](https://github.com/Santhosh7474/Punyadaan)
+
 ### 🎨 Portfolio
 Interactive 3D portfolio with WebGL particles and smooth animations
 - Tech: Next.js 14, Three.js, Framer Motion
